@@ -1,0 +1,12 @@
+C:\Users\Şahin\source\repos\EF-RoniHoca-01102021\EF-RoniHoca-01102021\bin\Debug\EF-RoniHoca-01102021.exe.config
+C:\Users\Şahin\source\repos\EF-RoniHoca-01102021\EF-RoniHoca-01102021\bin\Debug\EF-RoniHoca-01102021.exe
+C:\Users\Şahin\source\repos\EF-RoniHoca-01102021\EF-RoniHoca-01102021\bin\Debug\EF-RoniHoca-01102021.pdb
+C:\Users\Şahin\source\repos\EF-RoniHoca-01102021\EF-RoniHoca-01102021\bin\Debug\EntityFramework.dll
+C:\Users\Şahin\source\repos\EF-RoniHoca-01102021\EF-RoniHoca-01102021\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Şahin\source\repos\EF-RoniHoca-01102021\EF-RoniHoca-01102021\bin\Debug\EntityFramework.xml
+C:\Users\Şahin\source\repos\EF-RoniHoca-01102021\EF-RoniHoca-01102021\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Şahin\source\repos\EF-RoniHoca-01102021\EF-RoniHoca-01102021\obj\Debug\EF-RoniHoca-01102021.csproj.AssemblyReference.cache
+C:\Users\Şahin\source\repos\EF-RoniHoca-01102021\EF-RoniHoca-01102021\obj\Debug\EF-RoniHoca-01102021.csproj.CoreCompileInputs.cache
+C:\Users\Şahin\source\repos\EF-RoniHoca-01102021\EF-RoniHoca-01102021\obj\Debug\EF-RoniHoca-01102021.csproj.CopyComplete
+C:\Users\Şahin\source\repos\EF-RoniHoca-01102021\EF-RoniHoca-01102021\obj\Debug\EF-RoniHoca-01102021.exe
+C:\Users\Şahin\source\repos\EF-RoniHoca-01102021\EF-RoniHoca-01102021\obj\Debug\EF-RoniHoca-01102021.pdb

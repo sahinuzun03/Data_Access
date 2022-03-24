@@ -1,0 +1,16 @@
+C:\Users\Şahin\source\repos\EFCalisma05102021\EFCalisma05102021\obj\Debug\EFCalisma.csproj.AssemblyReference.cache
+C:\Users\Şahin\source\repos\EFCalisma05102021\EFCalisma05102021\obj\Debug\EFCalisma.csproj.SuggestedBindingRedirects.cache
+C:\Users\Şahin\source\repos\EFCalisma05102021\EFCalisma05102021\obj\Debug\EFCalisma05102021.Properties.Resources.resources
+C:\Users\Şahin\source\repos\EFCalisma05102021\EFCalisma05102021\obj\Debug\EFCalisma.csproj.GenerateResource.cache
+C:\Users\Şahin\source\repos\EFCalisma05102021\EFCalisma05102021\obj\Debug\EFCalisma.csproj.CoreCompileInputs.cache
+C:\Users\Şahin\source\repos\EFCalisma05102021\EFCalisma05102021\obj\Debug\EFCalisma05102021.exe
+C:\Users\Şahin\source\repos\EFCalisma05102021\EFCalisma05102021\obj\Debug\EFCalisma05102021.pdb
+C:\Users\Şahin\source\repos\EFCalisma05102021\EFCalisma05102021\bin\Debug\EFCalisma05102021.exe.config
+C:\Users\Şahin\source\repos\EFCalisma05102021\EFCalisma05102021\bin\Debug\EFCalisma05102021.exe
+C:\Users\Şahin\source\repos\EFCalisma05102021\EFCalisma05102021\bin\Debug\EFCalisma05102021.pdb
+C:\Users\Şahin\source\repos\EFCalisma05102021\EFCalisma05102021\bin\Debug\EntityFramework.dll
+C:\Users\Şahin\source\repos\EFCalisma05102021\EFCalisma05102021\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Şahin\source\repos\EFCalisma05102021\EFCalisma05102021\bin\Debug\EntityFramework.xml
+C:\Users\Şahin\source\repos\EFCalisma05102021\EFCalisma05102021\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Şahin\source\repos\EFCalisma05102021\EFCalisma05102021\obj\Debug\EFCalisma05102021.Form1.resources
+C:\Users\Şahin\source\repos\EFCalisma05102021\EFCalisma05102021\obj\Debug\EFCalisma.csproj.CopyComplete

@@ -1,0 +1,15 @@
+C:\Users\Şahin\source\repos\KartalHocaDBFirst30092021\KartalHocaDBFirst30092021\bin\Debug\KartalHocaDBFirst30092021.exe.config
+C:\Users\Şahin\source\repos\KartalHocaDBFirst30092021\KartalHocaDBFirst30092021\bin\Debug\KartalHocaDBFirst30092021.exe
+C:\Users\Şahin\source\repos\KartalHocaDBFirst30092021\KartalHocaDBFirst30092021\bin\Debug\KartalHocaDBFirst30092021.pdb
+C:\Users\Şahin\source\repos\KartalHocaDBFirst30092021\KartalHocaDBFirst30092021\bin\Debug\EntityFramework.dll
+C:\Users\Şahin\source\repos\KartalHocaDBFirst30092021\KartalHocaDBFirst30092021\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Şahin\source\repos\KartalHocaDBFirst30092021\KartalHocaDBFirst30092021\bin\Debug\EntityFramework.xml
+C:\Users\Şahin\source\repos\KartalHocaDBFirst30092021\KartalHocaDBFirst30092021\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Şahin\source\repos\KartalHocaDBFirst30092021\KartalHocaDBFirst30092021\obj\Debug\KartalHocaDBFirst30092021.csproj.AssemblyReference.cache
+C:\Users\Şahin\source\repos\KartalHocaDBFirst30092021\KartalHocaDBFirst30092021\obj\Debug\KartalHocaDBFirst30092021.Form1.resources
+C:\Users\Şahin\source\repos\KartalHocaDBFirst30092021\KartalHocaDBFirst30092021\obj\Debug\KartalHocaDBFirst30092021.Properties.Resources.resources
+C:\Users\Şahin\source\repos\KartalHocaDBFirst30092021\KartalHocaDBFirst30092021\obj\Debug\KartalHocaDBFirst30092021.csproj.GenerateResource.cache
+C:\Users\Şahin\source\repos\KartalHocaDBFirst30092021\KartalHocaDBFirst30092021\obj\Debug\KartalHocaDBFirst30092021.csproj.CoreCompileInputs.cache
+C:\Users\Şahin\source\repos\KartalHocaDBFirst30092021\KartalHocaDBFirst30092021\obj\Debug\KartalHocaDBFirst30092021.csproj.CopyComplete
+C:\Users\Şahin\source\repos\KartalHocaDBFirst30092021\KartalHocaDBFirst30092021\obj\Debug\KartalHocaDBFirst30092021.exe
+C:\Users\Şahin\source\repos\KartalHocaDBFirst30092021\KartalHocaDBFirst30092021\obj\Debug\KartalHocaDBFirst30092021.pdb

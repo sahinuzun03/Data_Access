@@ -1,0 +1,16 @@
+C:\Users\Şahin\Desktop\Data_Access\LınqDbFirst\KartalHocaDBFirst30092021\bin\Debug\KartalHocaDBFirst30092021.exe.config
+C:\Users\Şahin\Desktop\Data_Access\LınqDbFirst\KartalHocaDBFirst30092021\bin\Debug\KartalHocaDBFirst30092021.exe
+C:\Users\Şahin\Desktop\Data_Access\LınqDbFirst\KartalHocaDBFirst30092021\bin\Debug\KartalHocaDBFirst30092021.pdb
+C:\Users\Şahin\Desktop\Data_Access\LınqDbFirst\KartalHocaDBFirst30092021\bin\Debug\EntityFramework.dll
+C:\Users\Şahin\Desktop\Data_Access\LınqDbFirst\KartalHocaDBFirst30092021\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Şahin\Desktop\Data_Access\LınqDbFirst\KartalHocaDBFirst30092021\bin\Debug\EntityFramework.xml
+C:\Users\Şahin\Desktop\Data_Access\LınqDbFirst\KartalHocaDBFirst30092021\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Şahin\Desktop\Data_Access\LınqDbFirst\KartalHocaDBFirst30092021\obj\Debug\Ornek1.csproj.AssemblyReference.cache
+C:\Users\Şahin\Desktop\Data_Access\LınqDbFirst\KartalHocaDBFirst30092021\obj\Debug\Ornek1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Şahin\Desktop\Data_Access\LınqDbFirst\KartalHocaDBFirst30092021\obj\Debug\KartalHocaDBFirst30092021.Form1.resources
+C:\Users\Şahin\Desktop\Data_Access\LınqDbFirst\KartalHocaDBFirst30092021\obj\Debug\KartalHocaDBFirst30092021.Properties.Resources.resources
+C:\Users\Şahin\Desktop\Data_Access\LınqDbFirst\KartalHocaDBFirst30092021\obj\Debug\Ornek1.csproj.GenerateResource.cache
+C:\Users\Şahin\Desktop\Data_Access\LınqDbFirst\KartalHocaDBFirst30092021\obj\Debug\Ornek1.csproj.CoreCompileInputs.cache
+C:\Users\Şahin\Desktop\Data_Access\LınqDbFirst\KartalHocaDBFirst30092021\obj\Debug\Ornek1.csproj.CopyComplete
+C:\Users\Şahin\Desktop\Data_Access\LınqDbFirst\KartalHocaDBFirst30092021\obj\Debug\KartalHocaDBFirst30092021.exe
+C:\Users\Şahin\Desktop\Data_Access\LınqDbFirst\KartalHocaDBFirst30092021\obj\Debug\KartalHocaDBFirst30092021.pdb

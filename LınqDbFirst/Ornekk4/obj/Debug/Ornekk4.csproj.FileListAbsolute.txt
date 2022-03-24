@@ -1,0 +1,15 @@
+C:\Users\Şahin\source\repos\KartalHocaDBFirst30092021\Ornekk4\bin\Debug\Ornekk4.exe.config
+C:\Users\Şahin\source\repos\KartalHocaDBFirst30092021\Ornekk4\bin\Debug\Ornekk4.exe
+C:\Users\Şahin\source\repos\KartalHocaDBFirst30092021\Ornekk4\bin\Debug\Ornekk4.pdb
+C:\Users\Şahin\source\repos\KartalHocaDBFirst30092021\Ornekk4\bin\Debug\EntityFramework.dll
+C:\Users\Şahin\source\repos\KartalHocaDBFirst30092021\Ornekk4\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Şahin\source\repos\KartalHocaDBFirst30092021\Ornekk4\bin\Debug\EntityFramework.xml
+C:\Users\Şahin\source\repos\KartalHocaDBFirst30092021\Ornekk4\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Şahin\source\repos\KartalHocaDBFirst30092021\Ornekk4\obj\Debug\Ornekk4.csproj.AssemblyReference.cache
+C:\Users\Şahin\source\repos\KartalHocaDBFirst30092021\Ornekk4\obj\Debug\Ornekk4.Form1.resources
+C:\Users\Şahin\source\repos\KartalHocaDBFirst30092021\Ornekk4\obj\Debug\Ornekk4.Properties.Resources.resources
+C:\Users\Şahin\source\repos\KartalHocaDBFirst30092021\Ornekk4\obj\Debug\Ornekk4.csproj.GenerateResource.cache
+C:\Users\Şahin\source\repos\KartalHocaDBFirst30092021\Ornekk4\obj\Debug\Ornekk4.csproj.CoreCompileInputs.cache
+C:\Users\Şahin\source\repos\KartalHocaDBFirst30092021\Ornekk4\obj\Debug\Ornekk4.csproj.CopyComplete
+C:\Users\Şahin\source\repos\KartalHocaDBFirst30092021\Ornekk4\obj\Debug\Ornekk4.exe
+C:\Users\Şahin\source\repos\KartalHocaDBFirst30092021\Ornekk4\obj\Debug\Ornekk4.pdb
