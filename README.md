@@ -4,6 +4,8 @@
  ## ORM(Object Relational Mapping)
   Nesne odaklı paradigmalar kullanarak bir veritabanından veri sorgulamamıza ve işlememize izin veren bir tekniktir.
   
+  <img src="https://miro.medium.com/max/2678/0*hPIVHv2kP28zTbvb.png" style="height: 300px; width:700px;"/>
+  
  ### ORM Kullanmanın Avantajları :
   
   1- OOP standartlarına uygun olarak kod yazma imkanı.
@@ -25,6 +27,8 @@
   
   ## Entity Framework:
   Entity Framework, Microsoft tarafından desteklenen .NET uygulamaları için açık kaynaklı bir ORM çerçevesidir. Geliştiricilerin, bu verilerin depolandığı temel veritabanı tablolarına ve sütunlarına odaklanmadan etki alanına özgü sınıfların nesnelerini kullanarak verilerle çalışmasına olanak tanır. Entity Framework ile geliştiriciler, verilerle uğraşırken daha yüksek bir soyutlama düzeyinde çalışabilir ve geleneksel uygulamalara kıyasla daha az kodla veri odaklı uygulamalar oluşturabilir ve sürdürebilir.
+  
+  ![alt text for screen readers](https://miro.medium.com/max/770/1*iKXY29vQETRAuxWOLSbq0w.jpeg "Text to show on mouseover").
   
   ## Yaklaşımlar
   ### 1.Database First:
