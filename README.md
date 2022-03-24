@@ -2,7 +2,7 @@
  Bu repo'da veri erişim katmanları hakkında bilgiler bulabilirsiniz.
  
  ## ORM(Object Relational Mapping)
-  Nesne odaklı paradigmalar kullanarak bir veritabanından veri sorgulamamıza ve işlememize izin veren bir tekniktir.
+  Nesne İlişkisel Eşleme (ORM), Nesneye yönelik paradigmayı kullanarak bir veritabanındaki verileri sorgulamanıza ve değiştirmenize olanak sağlayan bir tekniktir. Veritabanı ve uygulama arasında bir köprü görevi görür. Veritabanındaki tabloları sınıflara, sütunları özelliklere, kayıtları nesnelere dönüştürerek, uygulamanın doğrudan veritabanına erişmesine gerek kalmadan tüm veritabanı işlemlerini gerçekleştiren bir yapıdır.
   
   <img src="https://miro.medium.com/max/2678/0*hPIVHv2kP28zTbvb.png" style="height: 300px; width:700px;"/>
   
